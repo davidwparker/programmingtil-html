@@ -1,6 +1,16 @@
 HTML basics
 
-## EPISODE 1
+## EPISODE 2 - header, main, footer, divs, h1-h6
+
+Resources:
+
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/heading_elements
+
+## EPISODE 1 - Text Editor and HTML
 
 Resources:
 * https://code.visualstudio.com/
