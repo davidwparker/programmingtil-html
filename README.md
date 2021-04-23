@@ -1,9 +1,17 @@
 HTML basics
 
+## EPISODE 3 - lorem ipsum, p, nav, anchor tags, section
+
+Resources:
+* https://www.lipsum.com/
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+
 ## EPISODE 2 - header, main, footer, divs, h1-h6
 
 Resources:
-
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
