@@ -1,5 +1,14 @@
 HTML basics
 
+## EPISODE 4 - what is Git? What is Github?
+
+Resources:
+* https://en.wikipedia.org/wiki/Git
+* https://git-scm.com/
+* https://git-scm.com/book/en/v2
+* https://github.com/
+* https://about.gitlab.com/
+
 ## EPISODE 3 - lorem ipsum, p, nav, anchor tags, section
 
 Resources:
