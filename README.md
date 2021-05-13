@@ -1,5 +1,19 @@
 HTML basics
 
+## EPISODE 6 - git basics
+
+Prerequisite - install git
+
+Commands:
+```
+git init
+git status
+git add
+git commit
+git diff
+git log
+```
+
 ## EPISODE 5 - more fun with links, intro to img tag, entity
 
 Resources:
