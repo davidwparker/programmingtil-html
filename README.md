@@ -1,5 +1,13 @@
 HTML basics
 
+## EPISODE 5 - more fun with links, intro to img tag, entity
+
+Resources:
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+* https://entitycode.com/
+
 ## EPISODE 4 - what is Git? What is Github?
 
 Resources:
