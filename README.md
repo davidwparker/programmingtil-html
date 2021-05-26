@@ -1,5 +1,41 @@
 HTML basics
 
+## EPISODE 7 - more git basics
+
+Commands:
+```
+git checkout
+git branch
+git merge
+git fetch
+git pull
+git clone
+```
+
+Follow along:
+```
+git branch
+git checkout -b branchname
+git checkout main
+git checkout -b branchname (errors)
+git checkout branchname
+touch test.txt
+git add test.text
+git commit -m "add file"
+git checkout main
+git checkout -b branch2
+git merge branchname
+... (more see video, sorry!)
+```
+
+Resources:
+* https://git-scm.com/docs/git-checkout
+* https://git-scm.com/docs/git-branch
+* https://git-scm.com/docs/git-merge
+* https://git-scm.com/docs/git-fetch
+* https://git-scm.com/docs/git-pull
+* https://git-scm.com/docs/git-clone
+
 ## EPISODE 6 - git basics
 
 Prerequisite - install git
@@ -13,6 +49,15 @@ git commit
 git diff
 git log
 ```
+
+Resources:
+* https://git-scm.com/docs/git-init
+* https://git-scm.com/docs/git-status
+* https://git-scm.com/docs/git-add
+* https://git-scm.com/docs/git-commit
+* https://git-scm.com/docs/git-diff
+* https://git-scm.com/docs/git-log
+
 
 ## EPISODE 5 - more fun with links, intro to img tag, entity
 
