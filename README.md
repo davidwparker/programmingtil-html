@@ -1,5 +1,9 @@
 HTML basics
 
+## EPISODE 8 - how to deploy a website to Vercel
+
+Nothing to see here! Just follow along the video
+
 ## EPISODE 7 - more git basics
 
 Commands:
